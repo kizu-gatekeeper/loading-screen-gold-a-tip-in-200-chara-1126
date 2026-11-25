@@ -7,7 +7,7 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (default /output), with no trailing newline.
 import os
 
 MAX_CHARS = 200
-LINE = "Tip: if the build passes on the first try, don't celebrate — check you're in the right repo; a past version of you is still debugging the wrong one."
+LINE = "Tip: if the build passes on the first try, don't celebrate — check you're in the right repo; somewhere, a past you is still debugging the wrong one."
 
 
 def write_entry(out_dir):
